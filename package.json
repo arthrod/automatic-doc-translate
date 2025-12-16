@@ -16,7 +16,7 @@
     "commander": "^11.1.0",
     "express": "^4.18.2",
     "github-api": "^3.4.0",
-    "gpt-tokenizer": "^2.1.2",
+    "gpt-tokenizer": "^2.9.0",
     "llamaindex": "^0.0.37",
     "openai": "^4.20.1"
   },
